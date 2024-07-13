@@ -1,1 +1,2 @@
-# me
+# Gamehub
+This website is for... educational purposes...
